@@ -16,13 +16,13 @@ body {
 .banner {
   background-color: #2b3851;
   position: relative;
-  padding: 2rem;
+  padding: 1.5rem;
 }
 
 .robot {
   width: 320px;
   position:relative;
-  top: 3rem;
+  top: 2rem;
   right: 2rem;
   margin: 0 auto;
 }
