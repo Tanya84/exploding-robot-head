@@ -21,7 +21,7 @@ body {
 
 .robot {
   width: 320px;
-  position:relative;
+  position: relative;
   top: 2rem;
   right: 2rem;
   margin: 0 auto;
@@ -39,7 +39,6 @@ body {
   left: 10rem;
   top: 0;
 }
-
 
 .robot-head-left {
   width: 125px;
